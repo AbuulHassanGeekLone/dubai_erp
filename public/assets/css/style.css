@@ -1,0 +1,36 @@
+.mousetag:hover {
+    color:deepskyblue;
+}
+.table-actions {
+    min-width: 75px;
+}
+.table-actionsPS {
+    min-width: 130px;
+}
+.table-name {
+    min-width: 175px;
+}
+
+.label-fix {
+    margin-top: 32px !important;
+}
+
+.color-tomato {
+    color: tomato;
+}
+.breadcrumb {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding: .75rem 1rem;
+    margin-bottom: 1rem;
+    list-style: none;
+    background-color: #f4f6f9 !important;
+    border-radius: .25rem;
+    margin-top: -4px;
+}
+
+.blank-rows td {
+    border: none
+}
